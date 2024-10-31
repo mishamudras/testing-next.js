@@ -10,16 +10,16 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.6.0",
-    
+  
     "font-awesome": "^4.7.0",
     "lucide-react": "^0.454.0",
     "next": "15.0.2",
-    "react": npm uninstall @heroicons/react
+   
     "react-dom": "19.0.0-rc-02c0e824-20241028"
   },
   "devDependencies": {
     "@types/node": "^20",
-    "@types/react": "^18",
+    "@types/react": "^18",git push origin main
     "@types/react-dom": "^18",
     "eslint": "^8",
     "eslint-config-next": "15.0.2",
