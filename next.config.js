@@ -1,8 +1,6 @@
 /** @type {import('next').NextConfig} */
-const config = {
-  // zde můžete přidat vaši konfiguraci, např.:
+const nextConfig = {
   reactStrictMode: true,
-  // další konfigurace...
 }
 
-module.exports = config
+module.exports = nextConfig
